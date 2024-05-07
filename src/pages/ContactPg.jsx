@@ -4,7 +4,7 @@ import ContactForm from "../components/ContactForm";
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
+      <h3>Contact Page</h3>
       <ContactForm />
     </div>
   );
