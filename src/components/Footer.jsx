@@ -4,37 +4,19 @@ export default function Footer() {
       <div class="footer-basic">
         <footer>
           <div class="social">
-            <a href="#">
-              <i class="icon ion-social-instagram"></i>
-            </a>
-            <a href="#">
-              <i class="icon ion-social-snapchat"></i>
-            </a>
-            <a href="#">
-              <i class="icon ion-social-twitter"></i>
-            </a>
-            <a href="#">
-              <i class="icon ion-social-facebook"></i>
-            </a>
           </div>
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a href="#">Home</a>
+              <a href="https://github.com/chrisjames1724">Github</a>
             </li>
             <li class="list-inline-item">
-              <a href="#">Services</a>
+              <a href="https://www.linkedin.com/in/chris-cummings-b84b6b106/">LinkedIn</a>
             </li>
             <li class="list-inline-item">
-              <a href="#">About</a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">Terms</a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">Privacy Policy</a>
+              <a href="https://www.instagram.com/chrisjames1724/">Instagram</a>
             </li>
           </ul>
-          <p class="copyright">Company Name © 2018</p>
+          <p class="copyright">CJC © 2024</p>
         </footer>
       </div>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

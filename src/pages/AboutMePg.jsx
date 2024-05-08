@@ -1,7 +1,13 @@
+import React from 'react';
+import images from '../components/images/headshot.jpeg';
+
 export default function About() {
     return (
       <div>
-        <h1>About Page</h1>
+        <h1>Chris Cummings</h1>
+       <div className='headshot'>
+       <img src={images} className="card-img-top" alt="Headhshot photo" />
+        </div> 
         <p>
           Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
           Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed

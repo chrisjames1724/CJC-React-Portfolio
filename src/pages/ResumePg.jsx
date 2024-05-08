@@ -3,20 +3,25 @@
 export default function Resume() {
     return (
       <div>
-        <h1>Resume Page</h1>
-        <p>
-          Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-          molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-          magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-          efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-          mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-          posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-          faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-          ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-          dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-          rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-        </p>
+        <a href="https://drive.google.com/file/d/1i9Pi2MYKtMfTkLjm3NSS9WLkjDEq6Gtp/view?usp=sharing">
+        <h1>Resume</h1>
+        </a>
+          <h3>Front End Skills</h3>
+          <ul>
+            <li> HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>Bootstrap</li>
+          </ul>
+         <h3>Back End Skills</h3>
+         <ul>
+          <li>API</li>
+          <li>Node</li>
+          <li>MongoDB</li>
+          <li>GraphQL</li>
+         </ul>
+ 
+        
       </div>
     );
   }

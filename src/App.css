@@ -1,0 +1,17 @@
+div {
+  background-color: rgb(169, 195, 234);
+}
+
+.card-body {
+    background-color: white;
+}
+
+.headshot {
+  width: 25%;
+  height: 25%;
+}
+
+img.card-img-top{
+  width: 30%;
+  height: 20%;
+}
