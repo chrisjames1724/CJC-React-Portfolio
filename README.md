@@ -1,9 +1,10 @@
 # CJC-React-Portfolio
 
 # Description
-In this assignment we were instructed to make a portfolio page for which we can utilize to show off our coding experience for prospective employers. 
+In this assignment we were instructed to make a portfolio page for which we can utilize to show off our coding experience for prospective employers. We needed to include an "about me" page, "portfolio" page, a "contact" page and a "resume" page.  The about me page was to include a headshot and description while the portfolio page was to highlight at least 6 of the assignments we have done throughout the class. the contact page was to include a way for people to contact us.  The resume page is to include a link to a downloadable resume.  This is to be edited after class to ensure it is presentable to potential employers.
 
 # Usage
+https://main--amazing-tanuki-0fe301.netlify.app/
 
 
 # Installation
